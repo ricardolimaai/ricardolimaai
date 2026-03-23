@@ -28,13 +28,13 @@ Production-ready RAG system built with FastAPI, LangChain, and ChromaDB. Upload 
 Real-time expense tracking app for couples with Google Gemini AI generating personalized financial insights. Live sync via Supabase Realtime.
 `React` `TypeScript` `Google Gemini` `Supabase` `Realtime`
 
+### [Quick Spark Prompt](https://github.com/ricardolimaai/quick-spark-prompt)
+Community platform for discovering and sharing AI prompts, image generation prompts, and automation workflows. Built with React and shadcn/ui.
+`React` `TypeScript` `Prompt Engineering` `shadcn/ui`
+
 ### WhatsApp AI Agent
 Autonomous conversational agent deployed on WhatsApp for lead qualification and customer engagement. Real-time NLP, conversation history, intent detection, and human escalation logic.
 `Node.js` `Anthropic/Claude` `WhatsApp API` `Google Cloud` `PM2`
-
-### Automated Prospecting Pipeline
-End-to-end system for scraping, qualifying, and automatically reaching out to prospects. Google Places API for geo-targeted lead generation, AI-powered message personalization by niche.
-`Python` `Google Places API` `Claude Haiku` `Shell Script`
 
 ---
 
