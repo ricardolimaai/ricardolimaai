@@ -10,7 +10,7 @@ I build production-ready AI systems: LLM agents, RAG pipelines, intelligent auto
 
 | Layer | Tools |
 |-------|-------|
-| AI & LLMs | Anthropic/Claude, OpenAI, LangChain, Autonomous Agents, RAG, Prompt Engineering |
+| AI & LLMs | Anthropic/Claude, OpenAI, LangChain, CrewAI, Autonomous Agents, RAG, Prompt Engineering |
 | Automation | n8n, MCP (Model Context Protocol), Python, Node.js, Webhooks |
 | Cloud & Infra | Google Cloud Run, Docker, Kubernetes, PM2, Cloudflare Tunnel |
 | Frameworks | FastAPI, ChromaDB, Supabase, Firebase, Google Gemini |
@@ -23,6 +23,10 @@ I build production-ready AI systems: LLM agents, RAG pipelines, intelligent auto
 ### [RAG Agent API](https://github.com/ricardolimaai/rag-agent)
 Production-ready RAG system built with FastAPI, LangChain, and ChromaDB. Upload PDFs or text files, ask questions, get accurate answers with source citations.
 `Python` `FastAPI` `LangChain` `ChromaDB` `OpenAI` `Docker`
+
+### [AI Research Crew](https://github.com/ricardolimaai/ai-research-crew)
+Multi-agent research system with CrewAI. Three specialized agents — Researcher, Analyst, and Writer — collaborate sequentially to produce professional reports on any topic.
+`Python` `CrewAI` `LangChain` `OpenAI` `Multi-Agent`
 
 ### [Promptly](https://github.com/ricardolimaai/promptly)
 AI-powered prompt library with Google Gemini integration. Browse 100+ prompts across 12 categories and refine any prompt automatically using Gemini as a prompt engineering expert.
