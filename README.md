@@ -24,15 +24,19 @@ I build production-ready AI systems: LLM agents, RAG pipelines, intelligent auto
 Production-ready RAG system built with FastAPI, LangChain, and ChromaDB. Upload PDFs or text files, ask questions, get accurate answers with source citations.
 `Python` `FastAPI` `LangChain` `ChromaDB` `OpenAI` `Docker`
 
+### [Promptly](https://github.com/ricardolimaai/promptly)
+AI-powered prompt library with Google Gemini integration. Browse 100+ prompts across 12 categories and refine any prompt automatically using Gemini as a prompt engineering expert.
+`React` `TypeScript` `Google Gemini` `Prompt Engineering`
+
 ### [Family Budget Tracker with AI](https://github.com/ricardolimaai/finan-asempar)
 Real-time expense tracking app for couples with Google Gemini AI generating personalized financial insights. Live sync via Supabase Realtime.
 `React` `TypeScript` `Google Gemini` `Supabase` `Realtime`
 
 ### [Quick Spark Prompt](https://github.com/ricardolimaai/quick-spark-prompt)
-Community platform for discovering and sharing AI prompts, image generation prompts, and automation workflows. Built with React and shadcn/ui.
-`React` `TypeScript` `Prompt Engineering` `shadcn/ui`
+Community platform for discovering and sharing AI prompts, image generation prompts, and automation workflows.
+`React` `TypeScript` `shadcn/ui` `Tailwind`
 
-### WhatsApp AI Agent
+### WhatsApp AI Agent *(production)*
 Autonomous conversational agent deployed on WhatsApp for lead qualification and customer engagement. Real-time NLP, conversation history, intent detection, and human escalation logic.
 `Node.js` `Anthropic/Claude` `WhatsApp API` `Google Cloud` `PM2`
 
@@ -47,7 +51,7 @@ Autonomous conversational agent deployed on WhatsApp for lead qualification and 
 
 ---
 
-## 📬 Let us connect
+## 📬 Lets connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ricardo_Lima-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ricardolimaai)
 [![Email](https://img.shields.io/badge/Email-ricardo.bardan@gmail.com-red?style=flat&logo=gmail)](mailto:ricardo.bardan@gmail.com)
